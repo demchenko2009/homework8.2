@@ -1,0 +1,122 @@
+.heder-text { 
+    text-align: center;
+    color: gold;
+    background-color: black;
+    font-size: 25px;
+}
+.heder-text:hover { 
+    color: darkblue;
+    font-size: 30px;
+}
+
+.thead {
+    color: goldenrod;
+    margin-bottom: 15px;
+    background-color: black;
+    text-align: center;
+    font-size: 35px;
+    position: relative;
+}
+.thead:hover {
+background-color: goldenrod;
+color: black;
+border-radius: 10px;
+font-size: 30px;
+}
+.thead:active {
+    font-size: 16px;
+    background-color: black;
+    color: goldenrod;
+}
+.thead-caption:first-child {
+color: goldenrod;
+}
+.thead-caption:last-child {
+color: blueviolet;
+}
+.thead-caption:nth-child(3) {
+    color: chartreuse;
+}
+.thead-caption:nth-child(5) {
+    color: darkmagenta;
+}
+.thead-caption:nth-child(2) {
+    color: rgb(200, 0, 80);
+}
+.thead-caption:nth-child(4) {
+    color: rgb(250, 100, 45);
+}
+.thead-text {
+    color: aqua;
+    font-size: 15px;
+}
+.thead-text:hover {
+    font-size: 29px;
+    color: rgb(0, 150, 0);
+}
+.thead-text:active {
+    color: rgb(0, 140, 177);
+}
+.thead-description {
+    color: indigo;
+    font-size: 19px;
+
+}
+.thead-description:hover {
+    font-size: 23px;
+    color: rgb(0, 0, 200);
+    background-color: black;
+}
+.thead-pragraph {
+    color: rgb(155, 0, 0);
+    font-size: 21px;
+}
+.thead-pragraph:hover {
+    font-size: 17px;
+    border-radius: 16px;
+}
+.thead-pragraph:first-child {
+    color: brown;
+    background-color: chartreuse;
+}
+.thead-pragraph:last-child {
+    color: rgb(88, 76, 99);
+    background-color: crimson;
+}
+.thead-pragraph:active {
+    background-color: deeppink;
+    color: cornsilk;
+    font-size: 23px;
+}
+.thead-subtitle {
+    color: darkorange;
+    font-size: 17px;
+}
+.thead-subtitle:hover {
+    font-size: 18px;
+}
+.thead-teitle {
+    color: dodgerblue;
+    font-size: 19px;
+}
+.thead-teitle:hover {
+    font-size: 26px;
+}
+.thead-teitle:active {
+    background-color: darkgoldenrod;
+    color: blueviolet;
+    font-size: 25px;
+}
+.thead-phinish {
+    font-size: 20px;
+    color: blue;
+}
+.thead-phinish:hover {
+    font-size: 19px;
+    color: cyan;
+}
+.thead-phinish:active {
+    background-color: red;
+    font-size: 22px;
+}
+
